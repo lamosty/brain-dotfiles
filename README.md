@@ -1,6 +1,6 @@
 # Brain Dotfiles
 
-Analogous to how developers show their dev machines' .dotfiles, here is a collection of 'files' that setup up my thinking/worldview/brain as it is. List updated if something new changes my mind.
+Analogous to how developers show their dev machines' .dotfiles, here is a collection of 'files' that setup up my thinking/worldview/brain as it is. List updated when something new changes my mind.
 
 ## Non-tech Books
 
